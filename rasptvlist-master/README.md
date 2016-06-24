@@ -1,2 +1,2 @@
-# adryanlist
-List of channels for livestreamspro addon fo kodi
+# Rasp TV List
+Lista de canales por livestreamspro addon de Kodi
