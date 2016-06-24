@@ -28,8 +28,8 @@
 </addon>
 
 
-<addon id="repository.adryanlist" name="AdryanList Official Repo" version="1.0" provider-name="adryanlist">
-	<extension point="xbmc.addon.repository" name="AdryanList Official Repo">
+<addon id="repository.rasptvlist" name="Rasp TV Lista Oficial Repo" version="2.0" provider-name="Jor-El">
+	<extension point="xbmc.addon.repository" name="Rasp TV Lista Oficial Repo">
 		<info compressed="false">https://raw.github.com/joalcota86/rasptvlist/master/addons.xml</info>
 		<checksum>https://raw.github.com/joalcota86/rasptvlist/master/addons.xml.md5</checksum>
 		<datadir zip="true">https://raw.github.com/joalcota86/rasptvlist/master/</datadir>
