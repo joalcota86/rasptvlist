@@ -119,26 +119,26 @@ if REMOTE_DBG:
         sys.exit(1)
 
 
-addon = xbmcaddon.Addon('plugin.video.rapstvlist')
+addon = xbmcaddon.Addon('plugin.video.rasptvlist')
 addon_version = addon.getAddonInfo('version')
 profile = xbmc.translatePath(addon.getAddonInfo('profile').decode('utf-8'))
 home = xbmc.translatePath(addon.getAddonInfo('path').decode('utf-8'))
 favorites = os.path.join(profile, 'favorites')
 history = os.path.join(profile, 'history')
-REV = os.path.join(profile, 'list_revision')
 icon = os.path.join(home, 'icon.png')
-FANART = os.path.join(home, 'fanart.jpg')
-source_file = os.path.join(profile, 'source_file')
+fanArt = os.path.join(home, 'fanart.jpg')
+source_file=os.path.join(profile,'source_file')
+REV = os.path.join(profile, 'list_revision')
 functions_dir = profile
-communityfiles = os.path.join(profile, 'LivewebTV')
-downloader = downloader.SimpleDownloader()
+#communityfiles = os.path.join(profile, 'LivewebTV')
+#downloader = downloader.SimpleDownloader()
 debug = addon.getSetting('debug')
 
 if os.path.exists(favorites)==True:
     FAV = open(favorites).read()
 else: FAV = []
 
-SOURCES = [{"url": "https://raw.githubusercontent.com/joalcota86/rasptvlist/master/list.xml", "fanart": "https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/13532761_622650427893176_3891612062229215732_n.jpg?oh=b7037fc3d0ee2c615ddd6a44c87eedba&oe=5806BB77"}]
+SOURCES = [{"url": "https://raw.githubusercontent.com/joalcota86/rasptvlist/master/rasptvlist-master/list.xml", "fanart": "https://scontent-mia1-1.xx.fbcdn.net/v/t1.0-9/13532761_622650427893176_3891612062229215732_n.jpg?oh=b7037fc3d0ee2c615ddd6a44c87eedba&oe=5806BB77"}]
 
 
 
@@ -2736,7 +2736,7 @@ name=None
 mode=None
 playlist=None
 iconimage=None
-fanart=FANART
+fanart=fanArt
 playlist=None
 fav_mode=None
 regexs=None

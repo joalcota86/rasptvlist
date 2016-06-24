@@ -20,7 +20,7 @@
     <provides>video</provides>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>based on livestreamspro 2.3.4 by Shani</summary>
+    <summary>based on livestreamspro by Shani</summary>
     <description>Lista de canales de Rasp TV.</description>
     <platform>all</platform>
   </extension>
