@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="plugin.video.rasptvList"
+       name="Rasp TV List"
+       version="2.0"
+       provider-name="Rasp TV List">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.beautifulsoup" version="3.2.1"/>
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.beautifulsoup4" />
+    <import addon="script.module.simple.downloader" version="0.9.4"/>
+    <import addon="script.module.requests" />
+    <import addon="script.module.httplib2" />
+    <import addon="script.module.youtube.dl" optional="true"/>
+    <import addon="plugin.video.youtube" />
+    <import addon="script.module.urlresolver" optional="true"/>
+    <import addon="script.module.simplejson" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+   <summary>Rasp TV List,  basado en LivetreamsPro by Shani  </summary>
+    <description lang="en">Lista de Canales para Kodi</description>
+    <platform>all</platform>
+  </extension>
+</addon>
+
+
+<addon id="repository.adryanlist" name="AdryanList Official Repo" version="1.0" provider-name="adryanlist">
+	<extension point="xbmc.addon.repository" name="AdryanList Official Repo">
+		<info compressed="false">https://raw.github.com/joalcota86/rasptvlist/master/addons.xml</info>
+		<checksum>https://raw.github.com/joalcota86/rasptvlist/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.github.com/joalcota86/rasptvlist/master/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Rasp TV List Official Repo</summary>
+   		<description lang="en">Instala los Addon Rasp TV List</description>
+		<disclaimer></disclaimer>
+		<platform>all</platform>
+	</extension>
+</addon>
+</addons>

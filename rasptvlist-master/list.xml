@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+
+<items>
+	
+<item>
+<title>            [COLOR lightslategray]update: [COLOR lightblue]23[/COLOR] • Junio • 2016[/COLOR]      </title>
+<link>http://adryanlist.org/adryan/liist.xml</link>
+<thumbnail>http://adryanlist.org/adryan/img/updated.jpg</thumbnail>
+<fanart>http://adryanlist.org/fanart.jpg</fanart>
+</item>
+
+
+
+<!--
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]GameOfThrones [/B][/COLOR] [COLOR lightslategray] Capitulo 9: La Batalla de los Bastardos[/COLOR]</title>
+<link>http://ignorame</link>
+<thumbnail>http://orig09.deviantart.net/88ce/f/2013/081/7/a/game_of_thrones___poster_by_kc_eazyworld-d5yunum.jpg</thumbnail>
+<externallink>http://adryanlist.org/adryan/evento.xml</externallink>
+</item>
+-->
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR lightslategray](Sports) [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]EURO2016[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/euro.jpg</thumbnail>
+<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/euro.xml</externallink>
+</item>
+<tem>
+<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]COPA AMERICA[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
+<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/liguilla.xml</externallink>
+</item>
+<tem>
+<title>[COLOR lime]•[/COLOR][COLOR lightyellow]  [B]COPA AMERICA[/B] [/COLOR] [COLOR skyblue]#TVOnline2016[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamerica.jpg</thumbnail>
+<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>https://dl.dropboxusercontent.com/s/96crm0q54ok6a1d/menu.txt</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]ExtraTime[/COLOR][/B] [COLOR lightslategray][I]  Eventos del dia[/I][/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/extratime.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
+</item>
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Series de TV[/B] [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/gnula.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/esp.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mexico[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mexico.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/mx.xml</externallink>
+</item>
+
+
+
+<!--
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  IPTV[B]Canales[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
+<link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+<title>[COLOR white][/COLOR][COLOR lime][makelist.param1][/COLOR]</title>
+<link>http://iptvcanales.com/xw/canales/canal1.m3u8?canal=[makelist.param2]&amp;profile=3|Referer=http://iptvcanales.com/hls/grindplayer/flashlsOSMF.swf</link>
+<thumbnail>[makelist.param3]</thumbnail>
+</item>
+]]></listrepeat>
+<expres>canal=(.*?)&[\w\W\s]{0,4}n_canal=(.*?)"[\w\W\s]{0,6}src="(.*?)"</expres>
+<page>http://iptvcanales.com</page>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>
+</item>
+
+
+-->
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR lightslategray] [/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/t.xml</externallink>
+</item>
+
+
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Entretenimiento[/COLOR]  [COLOR skyblue][/COLOR]  </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/entretenimiento.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/ent.xml</externallink>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR green] [/COLOR]</title>
+<!--  <link>$doregex[makelist]</link>
+<regex>
+<name>makelist</name>
+<listrepeat><![CDATA[
+<item>
+			<title>[makelist.param2]</title>
+			<link>rtmp://$doregex[getserver]/live?$doregex[clearCode] playpath=live_[makelist.param1] live=1 timeout=20</link>
+			<regex>
+			<name>clearCode</name>
+			<expres>$pyFunction:'$doregex[getencoded]'.replace("0m0","").replace("0n0","")</expres>
+			<page></page>
+			</regex>
+			<regex>
+			<name>getencoded</name>
+			<expres>:mvnkey-(.*)</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getserver</name>
+			<expres>(.*?);</expres>
+			<page>$doregex[getUrl]</page>
+			</regex>
+			<regex>
+			<name>getUrl</name>
+			<expres>(.*)</expres>
+			<page>http://mvn.vaughnsoft.net/video/edge/live_[makelist.param1]$doregex[gettime]-$doregex[gettime].33434</page>
+			</regex>
+			<regex>
+			<name>gettime</name>
+			<expres>$pyFunction:str(int(round(time.time() * 1000)))</expres>
+			<page></page>
+			</regex>
+			<thumbnail>http://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/[makelist.param2]_320.jpg</thumbnail></item>
+]]></listrepeat>
+<expres>a href="/(.*?)"[\w\W\s]{0,22}browseTxt">(.*?)<</expres>
+<page>http://vaughnlive.tv/browse/espanol</page>
+<agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
+<referer></referer>
+<cookieJar></cookieJar>
+</regex>-->
+<thumbnail>http://adryanlist.org/adryan/img/247.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg/fanart>
+<link>http://ignorame</link>
+<externallink>http://adryanlist.org/adryan/p247.xml</externallink>
+
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Musica[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/musi.xml</externallink>
+</item>
+<!--
+
+<item>
+<title>[COLOR red]•[/COLOR][COLOR gray]  Stalker   [/COLOR][COLOR gray][Offline][/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://i.imgur.com/oxTNPnp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/nescafe.xml</externallink>
+</item>
+
+
+-->
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Paises[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/paises.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/paises.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Internacionales[/COLOR] </title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/internacional.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/inter.xml</externallink>
+</item>
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Mas Listas[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/listas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<externallink>http://adryanlist.org/adryan/lists.xml</externallink>
+</item>
+
+<!--
+
+<item>
+<title>[COLOR gray]•[/COLOR][COLOR silver]  [B]AloFlix [/B]  [/COLOR] [COLOR skyblue] [Cerrado - OFFLINE][/COLOR]  </title>
+<link>http://ignora.me</link>
+<externallink>http://adryanlist.org/</externallink>
+<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
+<thumbnail>http://adryanlist.org/adryan/img/aloflix.jpg</thumbnail>
+<info></info>
+</item>
+-->
+
+
+
+
+<item>
+<title>DMCA: This site only contains links and embeds to TV channels from 3rd party sites Which are freely available on all Internet. We are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is copyright of their respective owners.</title>
+<link>http://adryanlist.org/adryan/in.xml</link><thumbnail>http://adryanlist.org/adryan/img/donacion.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+</item>
+
+--> 
+
+</items>
+
+
+
