@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
+<!--Hecho por Jor-El-->
 <items>
 	
 <item>
-<title>            [COLOR lightslategray]update: [COLOR lightblue]27[/COLOR] • Junio • 2016[/COLOR]      </title>
+<title>[COLOR lightslategray]update: [COLOR lightblue]27[/COLOR] • Junio • 2016[/COLOR]      </title>
 <link></link>
 <thumbnail>https://domains90210.com/wp-content/uploads/2013/07/updated-website.jpg</thumbnail>
 <fanart>https://s-media-cache-ak0.pinimg.com/736x/8d/c5/59/8dc5591c0e07f767b9476c28e4980bf4.jpg</fanart>
@@ -13,19 +12,26 @@
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Películas[/B] [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<thumbnail>http://la100.cienradios.com/wp-content/uploads/sites/28/2015/01/redes-peliculas.jpg</thumbnail>
+<fanart>http://www.adslzone.net/app/uploads/2016/02/peliculas.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
 </item>
 
-
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Series de TV[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/series.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<link>http://ignorame</link><thumbnail>http://www.teacordasde.com.ar/images/series.jpg</thumbnail>
+<fanart>http://somosfrikis.es/wp-content/uploads/Series-TV-.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/gnula.xml</externallink>
 </item>
 
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Música[/COLOR]</title>
+<link>http://ignorame</link><thumbnail>http://static-1.ivoox.com/canales/2/3/6/1/5531454791632.jpg</thumbnail>
+<fanart>http://4.bp.blogspot.com/-vq4ceH-5T28/UIw2W3TYU9I/AAAAAAAAADU/KGUtyhWQiNs/s1600/artista.png</fanart>
+<externallink>http://adryanlist.org/adryan/musi.xml</externallink>
+</item>
 
+<!--
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  España [/COLOR]</title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/esp.jpg</thumbnail><fanart>http://i.imgur.com/O4Kz3Al.jpg</fanart>
@@ -36,12 +42,6 @@
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/mexico.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/mx.xml</externallink>
 </item>
-
-
-
-<!--
-
-
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  IPTV[B]Canales[/B]   [/COLOR] [COLOR skyblue][/COLOR]  </title>
@@ -63,16 +63,11 @@
 </item>
 
 
--->
-
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TotalPlay    [/COLOR] [COLOR lightslategray] [/COLOR]  </title>
 <link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/tp.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/t.xml</externallink>
-</item>
-
-
-
+/item>
 
 
 <item>
@@ -85,7 +80,7 @@
 
 <item>
 <title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Television [COLOR skyblue]24/7[/COLOR][/B][/COLOR] [COLOR green] [/COLOR]</title>
-<!--  <link>$doregex[makelist]</link>
+<link>$doregex[makelist]</link>
 <regex>
 <name>makelist</name>
 <listrepeat><![CDATA[
@@ -124,20 +119,16 @@
 <agent>Mozilla/5.0 (iPhone; U; CPU iPhone OS 4_2_1 like Mac OS X; en-us) AppleWebKit/533.17.9 (KHTML, like Gecko) Version/5.0.2 Mobile/8C148 Safari/6533.18.5</agent>
 <referer></referer>
 <cookieJar></cookieJar>
-</regex>-->
+</regex>
 <thumbnail>http://adryanlist.org/adryan/img/247.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg/fanart>
 <link>http://ignorame</link>
 <externallink>http://adryanlist.org/adryan/p247.xml</externallink>
 
 </item>
+-->
 
 
 
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Musica[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/musica.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/musi.xml</externallink>
-</item>
 <!--
 
 <item>
@@ -147,7 +138,7 @@
 </item>
 
 
--->
+
 
 
 
@@ -169,7 +160,7 @@
 <externallink>http://adryanlist.org/adryan/lists.xml</externallink>
 </item>
 
-<!--
+
 
 <item>
 <title>[COLOR gray]•[/COLOR][COLOR silver]  [B]AloFlix [/B]  [/COLOR] [COLOR skyblue] [Cerrado - OFFLINE][/COLOR]  </title>
@@ -185,12 +176,11 @@
 
 
 <item>
-<title>DMCA: This site only contains links and embeds to TV channels from 3rd party sites Which are freely available on all Internet. We are not affiliated in any way with the broadcasted channels nor responsible for their content. All content is copyright of their respective owners.</title>
-<link>http://adryanlist.org/adryan/in.xml</link><thumbnail>http://adryanlist.org/adryan/img/donacion.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
+<title>[COLOR yellow]Recordatorio: En caso de que no pueda ver un canal de TV o alguna de las películas revise su conexión a Internet. Le Recordamos que necesita tener una conexión a Internet para poder ver cualquiera de solo servicios adquiridos. 
+No estamos afiliados de ninguna manera con los canales emitidos por este medio ni somos responsables de su contenido. 
+Todo el contenido es copyright de sus respectivos propietarios.</title>
+<!--<link>http://adryanlist.org/adryan/in.xml</link><thumbnail>http://adryanlist.org/adryan/img/donacion.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>-->
 </item>
-
---> 
-
 </items>
 
 
