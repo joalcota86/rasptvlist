@@ -4,59 +4,17 @@
 <items>
 	
 <item>
-<title>            [COLOR lightslategray]update: [COLOR lightblue]23[/COLOR] • Junio • 2016[/COLOR]      </title>
-<link>http://adryanlist.org/adryan/liist.xml</link>
-<thumbnail>http://adryanlist.org/adryan/img/updated.jpg</thumbnail>
-<fanart>http://adryanlist.org/fanart.jpg</fanart>
+<title>            [COLOR lightslategray]update: [COLOR lightblue]27[/COLOR] • Junio • 2016[/COLOR]      </title>
+<link></link>
+<thumbnail>https://domains90210.com/wp-content/uploads/2013/07/updated-website.jpg</thumbnail>
+<fanart>https://s-media-cache-ak0.pinimg.com/736x/8d/c5/59/8dc5591c0e07f767b9476c28e4980bf4.jpg</fanart>
 </item>
 
-
-
-<!--
 <item>
-<title>[COLOR lime]•[/COLOR][COLOR yellow]  [B]GameOfThrones [/B][/COLOR] [COLOR lightslategray] Capitulo 9: La Batalla de los Bastardos[/COLOR]</title>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Películas[/B] [/COLOR]</title>
 <link>http://ignorame</link>
-<thumbnail>http://orig09.deviantart.net/88ce/f/2013/081/7/a/game_of_thrones___poster_by_kc_eazyworld-d5yunum.jpg</thumbnail>
-<externallink>http://adryanlist.org/adryan/evento.xml</externallink>
-</item>
--->
-
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes[/COLOR] [COLOR lightslategray](Sports) [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/deportes.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/deportes_adryan_list.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]EURO2016[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/euro.jpg</thumbnail>
+<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
 <fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/euro.xml</externallink>
-</item>
-<tem>
-<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]COPA AMERICA[/COLOR] [COLOR skyblue] [/COLOR][/B] </title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamericaa.jpg</thumbnail>
-<fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/liguilla.xml</externallink>
-</item>
-<tem>
-<title>[COLOR lime]•[/COLOR][COLOR lightyellow]  [B]COPA AMERICA[/B] [/COLOR] [COLOR skyblue]#TVOnline2016[/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/copaamerica.jpg</thumbnail>
-<fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>https://dl.dropboxusercontent.com/s/96crm0q54ok6a1d/menu.txt</externallink>
-</item>
-
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR lightgreen]  [B]ExtraTime[/COLOR][/B] [COLOR lightslategray][I]  Eventos del dia[/I][/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/extratime.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
-<externallink>http://adryanlist.org/adryan/multicanales.xml</externallink>
-</item>
-
-<item>
-<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  [B]Peliculas[/B] [/COLOR]</title>
-<link>http://ignorame</link><thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail><fanart>http://adryanlist.org/fanart.jpg</fanart>
 <externallink>http://adryanlist.org/adryan/pyt_vod.xml</externallink>
 </item>
 
