@@ -1,37 +1,27 @@
-
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-
-
-	<channel>
+    <channel>
     <name>[COLOR=green]-----[/COLOR][COLOR=orange]► M Ú S I C A [/COLOR][COLOR gray] Vevo 1-3 • Vh1 • Mtv hits • rock • Dance • Exa Tv • Live Music [/COLOR][COLOR=green]-----[/COLOR]</name>
     <thumbnail>http://i.imgur.com/oxTNPnp.png</thumbnail>
     <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
-        <items>
-  
+        <items>  
 			<items_info> <!-- this is opitonal -->
-      <title>Adryan List </title>
-      <genre>Tv Live</genre>
+      <title>Rasp TV List </title>
+      <genre>TV Live</genre>
       <description>: Lista de Canales para el Livestreamspro :</description>
       <thumbnail>http://i.imgur.com/CkvRWfL.jpg</thumbnail>
       <fanart>http://i.imgur.com/UAQY3DI.jpg</fanart>
-      <date>03.02.2015</date>
-      <credits>adryan</credits>
+      <date>28 - 06 - 2016</date>
+      <credits>Jor-El</credits>
     </items_info>
 				
-	<item>
-<title>[COLOR skyblue][B]Conciertos de Musica[/B][/COLOR] [COLOR lightslategray]   [/COLOR] </title>
-<link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/concerts.xml</externallink>
-<fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
-<thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
-<info></info>
-</item>						
+	<!--
 		
 		<item>
 			<title>       [COLOR yellow]MUSICALES[/COLOR]</title>
 			<thumbnail>http://tv.ztv.</thumbnail>
 			<link>http://streaming.enetres.net/</link><externallink>http://adryanlist.org/adryan/3p.m3u</externallink>
 		</item>
+		-->
 		
 		
 		  
