@@ -6,7 +6,7 @@
 <item>
 <title>[COLOR skyblue][B]Estrenos[/B][/COLOR]  [COLOR deepskyblue]Audio Latino[/COLOR]</title>
 <link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/audio_latino.xml</externallink>
+<externallink>https://raw.githubusercontent.com/joalcota86/rasptvlist/master/rasptvlist-master/Peliculas/audio-latino.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
 <thumbnail>http://1.bp.blogspot.com/_if4J8cdralU/TVMPSJADadI/AAAAAAAAAAw/cTvigVD3OCE/s1600/Peliculas%2BLatino.jpg</thumbnail>
 <info></info>
@@ -15,7 +15,7 @@
 <item>
 <title>[COLOR skyblue][B]Estrenos [/B][/COLOR] [COLOR deepskyblue]Audio Original [/COLOR][COLOR gray][hay que agregar subtitulos][/COLOR] </title>
 <link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/estrenos.xml</externallink>
+<externallink>https://raw.githubusercontent.com/joalcota86/rasptvlist/master/rasptvlist-master/Peliculas/estrenos.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
 <thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
 <info></info>
@@ -24,7 +24,7 @@
 <item>
 <title>[COLOR skyblue][B]Peliculas Infantiles[/B][/COLOR] [COLOR deepskyblue]Audio Latino[/COLOR] </title>
 <link>http://ignora.me</link>
-<externallink>http://adryanlist.org/adryan/jessmax.xml</externallink>
+<externallink>https://raw.githubusercontent.com/joalcota86/rasptvlist/master/rasptvlist-master/Peliculas/infantiles.xml</externallink>
 <fanart>http://fotonin.com/data_images/out/5/776482-cool-movie-wallpaper.jpg</fanart>
 <thumbnail>http://adryanlist.org/adryan/img/peliculas.jpg</thumbnail>
 <info></info>
