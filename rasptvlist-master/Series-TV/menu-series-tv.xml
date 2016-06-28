@@ -8,7 +8,7 @@
 </item>
 
 <item>
-<title>[COLOR lime]•[/COLOR] [COLOR skyblue][B]Series de TV [/B] [/COLOR][COLOR skyblue] ordenadas alfabéticamente[/COLOR] </title>
+<title>[COLOR lime]•[/COLOR] [COLOR deepskyblue][B]Series de TV [/B] [/COLOR][COLOR skyblue] ordenadas alfabéticamente[/COLOR] </title>
 <link>$doregex[makelist4]</link>
 <regex> <name>makelist4</name>
 	<listrepeat><![CDATA[<title>[COLOR skyblue] Letra [makelist4.param2] [/COLOR] </title><link>$doregex[makelist3]</link>]]></listrepeat>
