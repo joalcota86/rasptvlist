@@ -1,8 +1,10 @@
-
-<item><link>$doregex[id]</link><regex><name>Día de la Independencia 2</name><expres>file:'(.*)'</expres>
-<page>https://openload.co/embed/VB5EPANxlI0/LinkPeliculas_DDLIC.avi.mp4</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 TS Subtitulado</title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres>
+<page>https://openload.co/embed/VB5EPANxlI0/LinkPeliculas_DDLIC.avi.mp4</page>	 
+<referer>http://streamin.to</referer></regex>         
+<title>Día de la Independencia 2 2016 tshq latino </title>     
+<thumbnail>http://cpmcines.com/nuevo/wp-content/uploads/2016/06/dia-independencia-2.jpg</thumbnail>
      <fanart>http://chajarivirtual.com.ar/wp-content/uploads/2016/06/descarga.jpg</fanart>
-     <genre>Acción, Ficción, Fantasía</genre>      </item>
+     <genre>Acción, Ficción, Fantasía</genre>   </item>
 
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-0mjsmgk7mogi-740x360.html</page>	 <referer>http://streamin.to</referer></regex>         <title>El Conjuro 2 2016 TS Subtitulado</title>     <thumbnail>https://image.tmdb.org/t/p/w500/8yUeC25Ho8ZwwwtiYrfBzDkFcdk.jpg</thumbnail>
      <fanart>https://image.tmdb.org/t/p/original/dsvFL8iFNB2WMfyny9dCCHvCxk1.jpg</fanart>
