@@ -1,0 +1,1137 @@
+	 
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-dkfz4k7x68zl-740x360.html</page>	 <referer>http://streamin.to</referer></regex>           <title>Padres e Hijas</title>
+   <thumbnail>https://image.tmdb.org/t/p/w500/2anN8jwX602UYmnU46V2WhXRdJX.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/fzoMp3OuwbvKTXosew49HwlQG65.jpg</fanart>
+     <genre>Drama</genre></item>
+
+<item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres><page>http://streamin.to/embed-efysi12jhiuy-740x360.html</page>	 <referer>http://streamin.to</referer></regex>               <title>Spectre</title>
+    <thumbnail>https://image.tmdb.org/t/p/w500/mSvpKOWbyFtLro9BjfEGqUw5dXE.jpg</thumbnail>
+     <fanart>https://image.tmdb.org/t/p/original/qSc4L05AnHbMpSk0bsHuX25vX4V.jpg</fanart>
+     <genre>Acciamin.to</referer></regex>               <title>El desaf nuevo capG.org/t/p/w396/bNvPaF7vDuuvK2NLs98fqKHrc1l.jpg</thumbnail>
+</item>
+
+<item>
+<title>Edge (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzN1N29pcExvUDh5ejZDdjBsOUhHaHpicXptNWlKSzNVVWM0cXptejEyX3c9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/8g30VK8m4JxGsRZ7bboedQSSI5W.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>The Abominable Bride (2016)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL01IdzdZYTBFWGY0QXQxQm5ER1hsRVNLWWpsckVXODd0MTlxNExVZlU4TU09bTIy")</expres><page></page></regex>
+<thumbnail> Sherlock: The Abominable Bride (2016) </thumbnail>
+</item>
+
+<item>
+<title>Bright Star (2009)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1pqSzZxS1VfR2wwdDhyQjhkVnVlSFFUS0puNDNmZk9lenpqSnRjTkJxODQ9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/lmwqWatH0Ndsem1Eb7eroMMLmUY.jpg</thumbnail>
+</item>
+
+<item>
+<title>Shockwave Darkside (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1JRRTgzN1dnYWpRZjJRVHJrdE9ZX2FpYVhPbXRrTS1WZWFIMzFQaGZxejQ9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/nyZAPsmyLfzi20AUDDBijflvdPQ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Sisters (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3o1X1JpbThZbUxpSFA3VWpmVEFZTWdGdmxaT2pzUGxIbzJJNjY2SF9ReFE9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/xOYAJuCYL0H9G7eNxKBnA1vW43q.jpg</thumbnail>
+</item>
+
+<item>
+<title>Diablo (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzNEWjV1dnNvcDRIejNUaS1DeVhFcXFIbldNd3hOYkVmV3NfRnlnOG49bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/i08sLAiDj0b41ERYgPpcdT91I7L.jpg</thumbnail>
+</item>
+
+<item>
+<title>Adulterers (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1dXZGZwNWljbDFBenZrdzVNZk5KTnI2azJQLTl4SEFmZ1pWMlRwTGI9bTE4")</expres><page></page></regex>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BNDc2NDE0Mjc3MF5BMl5BanBnXkFtZTgwMTcxMDg1NzE@._V1_UY268_CR4,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Experimenter (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL21XS0tlQUttbjM1dkc1d1hRNE5xOTA2RFBiMHRaNzNPZFFpZGpibUlsUlNIOXNBUFlQNGpiTDdEQ0hxa2QxeW5JSENBa0JJTzVBYk89bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/gyFMUvk7gDMYQa988CaYz65COks.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Wrong Roommate (2016)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzhkQ1AwTzFiNFVzVnRTc0xxZlQ1NVVOQW5GUXJ4VUc3anBQQUNTbUJ2Zz1tMTg=")</expres><page></page></regex>
+<thumbnail>http://cdn1.xmovies8.tv/uploads/thumbs/2016-01-07the-wrong-roommate-20168.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Mercury Plains (2016)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3Rub2xNOWJnOVd6N3I1WmpIT2NrbmlNczhNVUVJX0JOUV9ZWl9jdGc9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/f7K7E3hgzVRnLLPAaZCfsR1q7wp.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Fall Of The Krays (2016)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzFNNVRpU3JIU2c3WUhRVDZoZkxobTk1Q3hZSE50aXF5U1RRUzJCYWU9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/n1vUMeBsRKMVV2JfPmLxywzELrV.jpg</thumbnail>
+</item>
+
+<item>
+<title>I, Frankenstein (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2lWZWZ5bGJwVXNPRW42NXYtOWZEVm5lS2laM3hzWGV1TzdBTXQ0TU93Slk9bTM3")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/amJHZ4eOMpqyKo1GK33HFV55zue.jpg</thumbnail>
+</item>
+
+<item>
+<title>Why Me? (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3Q1SjJyanQxWmw3NGNjQTExck14WTQzcW5Yc29nTVE3Q3RPOFZIdnptMG89bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/hiZ4cOCTiBI3fNlKAMqKoGk7ylh.jpg</thumbnail>
+</item>
+
+<item>
+<title>Garage Sale Mystery: Guilty Until Proven Innocent (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2xCeFAtMmN1dlRJYmpfemtTa1d2M05mbmFrMTEtZWJlS1hJOFUwVVpBQT1tMjI=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/m5b99pjHiY15gzX9s3MrEWtopzb.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Spectre (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3Z4VjUwd2lUa0VHTUVQaS1VbHB6QWN1VUpiVG5zMXVwcHZZV3dDVnRDZz1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/mSvpKOWbyFtLro9BjfEGqUw5dXE.jpg</thumbnail>
+</item>
+
+<item>
+<title>Captive (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzQ1Q0NLbDBwTmlqdV91TF91d0pvZFdRMXE2aEdSM0lmaHlnRWJzZUFybW89bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/hR2huBv9AGpG2hfnpL2eY1xSLQN.jpg</thumbnail>
+</item>
+
+<item>
+<title>Oddball (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3B0UWNHNGJBU25Xc0NybERGaU9ReXNBekdvWXdETjR1VHk2OUkwMEtwQT1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/8PjfUK38uqP7TLmkJspp4mxIf0a.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Alchemist's Letter (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0VLUUNtVGhkNVFCN2tIWnJ0Z1JScVNrd1k3OUtnU0ZtaVlEazdBSVVPUT1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/1j7p0j2xi4sfMApVjOhxKnAtquJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>How to Be Deadly (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2dsXzZnNzFkNVJHd090UmJfbkRFWnRmLURwcmllSmJhVzR6REJmbTNjZz1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/aZmdwKPgOIxa6lpsAAhixG39xnn.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>White Rabbit (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1o1UzBrT19PQXY2eUY5Nm83Y1FNS2YxVkE2T2d4M0lHUmZDZkY4UFRndz1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/lDWZuCEgqFyBa6vH8iPUrrsM01O.jpg</thumbnail>
+</item>
+
+<item>
+<title>Anomalisa (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzhSSVN0QkRUdlRRUjNLTHBYdklfZDgxai1oekpqU1F1RFlxdDZhaHhDdz1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/ab0WmBVrYSmE7r6B2fLsIA6eree.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dumb Criminals: The Movie (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL28zUXFBR3FGejBfSDR0RFlXQ1VCN2NJV0hjaW42TzFXYnYyMHFOaW1zdz1tMTg=")</expres><page></page></regex>
+<thumbnail>http://www.sanity.com.au/media/Images/fullimage/298817/TSA_2303615_2015-17-11--00-15-32.jpg</thumbnail>
+</item>
+
+<item>
+<title>Guns for Hire (2016)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2Y0eUJMQ1FUNy1DSW84REVZRWtRd0FqYVJ1YmdSU2lwVk83dG16eGtLZz1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/wtdH15fFNHbEa91I56upXGF0R7T.jpg</thumbnail>
+</item>
+
+<item>
+<title>Riot (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL004T2xBdDdaWEktQmpHdGp2OHhGeXg3TVFJUUJPTFZ0ZnU2akdNaFlNQT1tMjI=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/sjVt1vVJ16lTDBBmjVp9DAYwXPx.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Big Short (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL28wbjF1UXk4bzYzSHJ4RVNfTThxUUpHYVZmRGV3dlBDbXhfbm5teGlTQT1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/cZjhbbkkRmetiDHGDhaUCxD7AYb.jpg</thumbnail>
+</item>
+
+<item>
+<title>Brandon Semenuk's Rad Company (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2F4MW54MHNaUmJTdDBtTnpMczRiaXNDblJWaFp3bnRLZ0RkdGh1VmFIUT1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/iI2iBG7IKyAk2hHgzZJG1EViLtk.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Sexual Wishlist (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3diUVFpcWlhQ2VYU2tUZ0NvSlUwVUR2dDlLWHZzRVdFRl9ZbjN1R25vLU09bTE4")</expres><page></page></regex>
+<thumbnail>http://www.thedaretube.com/tv/resize/213x317/r/thumbs/movie_30f931f5f1dd67ba579bfb8bdae3f408.jpg</thumbnail>
+</item>
+
+<item>
+<title>Chi-Raq (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3dWMkk3R3I0TFpoWHZQdlFoaHBFV0lwaUdMOEQ2OGlUaHZ0aWhHZWdCUT1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/vftpuWtGdyhy0O7rUGM15wQ5bZ0.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ruben Guthrie (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL29VVmRWd0xXMlY4TGV1bXFmRE1fUW9fSDVvTTVQYmxobU94TmN0MUJKVlU9bTM3")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/jUsBpIcLkDFZhJNDedN3R0a201H.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Peter & Wendy (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0oyTXQzd0tBTVEta2dCU1E3NTZ2SGVvcHNPby1iazV1SFJ6MExhMktpUT1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/2wD7cP7964lO73jyTjEdG0AM9et.jpg</thumbnail>
+</item>
+
+<item>
+<title>Standoff (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3YxZHNtdWVGaTA4a2lSU2kyTkU3ZUtldlB6SjdBTFNnWmtfQVBqelRuZz1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/nY2Wtyx3VEdaR7aGVevDQsHdyRi.jpg</thumbnail>
+</item>
+
+<item>
+<title>A Gert Lush Christmas (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1ZMRklnOFI1WXpnRkdoQ1BBTkZMUDJxdnRacjZpZnpjS3Y5YXhGNW9Jelk9bTE4")</expres><page></page></regex>
+<thumbnail>https://pbs.twimg.com/media/CXLVw53W8AA_nAI.jpg</thumbnail>
+</item>
+
+<item>
+<title>Harry Price: Ghost Hunter (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0NWd3o0eC1peWlvZVpKRGl0ZFVocE1oS0JIOHpfbnZsUHBocm9wNDg3WUU9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/bAA32NYV8jwOVG4pdgRvbQdTZgX.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mining for Ruby (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1FCYUNiUnVKQW0yaEhYV2E1NlpWRm1pUkMwN1dWNFdBZXlyQURyMzdFTHM9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/xhO1kQbHDCUgO7bWc1okhppBjfr.jpg</thumbnail>
+</item>
+
+<item>
+<title>Princess Cut (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1VlcXk0WTcyd1cwTXF5eGpOVVNsQ1NfWkNuQ1RPWkpTUG5veWtGekV6SWc9bTE4")</expres><page></page></regex>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BODgwNzM2NjAzN15BMl5BanBnXkFtZTgwMzYwNDE3MDE@._V1_UX182_CR0,0,182,268_AL_.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Diary of a Teenage Girl (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3VSUXozS2VTUkJyNS1nd2daNmpLaUw2OXZmSHd6RTZMdTI0SlNXa0xaNXM9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/4yXGd2VL9xebMSMH5e4hMNrGRkQ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Suffragette (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0RuZHV4eVYyWlBmTlpjdEI0cm1qNHJnMjdJVVF0R3dPZ0hWOXRabDFmdVU9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/9sC1D5V44YAzDAJkiBdiel0iskg.jpg</thumbnail>
+</item>
+
+<item>
+<title>Trumbo (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3FRakFUVmlQbUxOTmdTQWsyelNvRFVGYV9MWEx0ampINEtUYjJyT2xPcU09bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/xQrRmQG9Qrrbq4Ip6qzQOl9ZN5H.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>A Christmas Horror Story (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzF6YXNudTZRUHBjRTNrREhIRU1XUG8yYndjQkttTm5OTlhxSjVvRzkxR1RaUHVfaVpSZjROaERVbFZzNzE3bklUQVNPWkg0cXBVNG49bTM3")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/9JOfHZNtv3oOQK6K5BUkhWQIxxO.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Spirit of Christmas (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2VpTWxZQUFuTnZId3lTc1UtTlQ4cjNUcHB3OTJjRTJsSjVUY1B1U01aTHM9bTIy")</expres><page></page></regex>
+<thumbnail>http://4.bp.blogspot.com/-6aFS_HkovgE/VhgL-1HOEFI/AAAAAAAARqg/A12aaKVDJV0/s1600/The-Spirit-of-Christmas_keyart.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Sound of Music Live (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1XSzFnajdaSmwwTjFIaThfN3pycmhLTmp3YVRKX1FfYkI0ZEcxQXUybW89bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/eMt6nlNyhTiIHGZsHMYi9y5gb27.jpg</thumbnail>
+</item>
+
+<item>
+<title>Spotlight (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1ZBTUM2eTlSWF9RNHk4c2tKcFJUQjY1TnBSbzNUU1BoSVZaTG94STdNNkE9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/ngKxbvsn9Si5TYVJfi1EGAGwThU.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jeff Dunham: Unhinged in Hollywood (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2s5S3F6TDJGOTVOU0N6UDZ4ajhsN2xmU0Q2bFhpYmh6UUZBSllPQUJDdz1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/av2qpoz8Bj2V1IF4WnFP0N1lX2i.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>The Good Dinosaur (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2VadlJxZndMVmM0c3JjR0V6V0Vqa3daN1hZT1dhQnRqZS12QjJFTzczVHc9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/2ZckiMTfSkCep2JTtZbr73tnQbN.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Revenant (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzl4NFJMNGpHRlVJOHhQT2ZYQUZQNmFjQXhpUC1pRTdZQVpQdXExdlVQSWc9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/oXUWEc5i3wYyFnL1Ycu8ppxxPvs.jpg</thumbnail>
+</item>
+
+<item>
+<title>Steve Jobs (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzRHamJCcTBuc1FoY2g5UjZ5RWxteHpxZGtjd3g3WWI0YTFyOFBaTVo1UT1tMTg=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/7SUaf2UgoY0ZRGbQtRlfDkLDBCb.jpg</thumbnail>
+</item>
+
+<item>
+<title>Concussion (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2FfaFgxdWNaWDNQNzJHenoyZHI4azlUTEFDRGpsWFNZSlNyeVR1cVE2bFk9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/vdK1f9kpY5QEwrAiXs9R7PlerNC.jpg</thumbnail>
+</item>
+
+<item>
+<title>Legend (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2J2S0JBUGkxRUNmVzNMdVh2azNreWZ3d3otXzhROU1xR1NqS1RRZlgtTU09bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/nXXI1MCJ0ugMetJ5Qn7ofDXANxf.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>The Hateful Eight (2016)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzlWMGxGMW1rdk9uVk1TUS1qalE4R0JKMjdVUUs4RkE4N29yc3Jtd3NoYTQ9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/fqe8JxDNO8B8QfOGTdjh6sPCdSC.jpg</thumbnail>
+</item>
+
+<item>
+<title>Creed (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzVSbXRTM0FTTDVLUFFZOVQzS3k4ZHFlbVJBQ1l6Q0ZpTHQyTHFhN2lfSnc9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/xSE4NBFDzqedwa4AIj99r1Z7ljF.jpg</thumbnail>
+</item>
+
+
+
+<item>
+<title>The Peanuts Movie (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1JHeFVZM0VGUm8yUHlocTMxYWY4UW5MUFFoUVRLWFFpTXBSQ21JNTcxN2s9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/zF6WpDC7fYTx2pqUYUet06buYmB.jpg</thumbnail>
+</item>
+
+<item>
+<title>Carol (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1lJQTFBUjRVaXNrZVZOVjNLMWlGZGZtR0d1MjZIZ2RVM0ZhV3YtbDhHQjg9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/v9xSiXv10NjFdCfQtwurAzPUz5I.jpg</thumbnail>
+</item>
+
+<item>
+<title>Anguish (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzc0MG5YZWRGUERLejFVeG9mdlNid2xlN0hmb0JoNF9lc1dIRTlDZlk4YjA9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/uUysaUGawCrASaytBwRVbXAVPK6.jpg</thumbnail>
+</item>
+
+<item>
+<title>He Named Me Malala (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3F6LW1WNVFsb1NwbkhSMzJfc183ZWdldkVmaDlLbXZyQ1Q3d3BnZzJVZ2s9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/yLVdKn3dgNX7mXCYPZg2Ydp0A4O.jpg</thumbnail>
+</item>
+
+<item>
+<title>North v South (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0dXbXQxRmRIN1FkaElYMmFIU056dkdqNWowMUF4LUZSYnFjOWhuNVNRQzQ9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/dUokXaVHo8ubtWsuPN0oSUjCvd9.jpg</thumbnail>
+</item>
+
+<item>
+<title>Mojave (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzB5a3JQWG5DVnE1R2FvQ3k2dzhXMkFHbkdQRjJqQ1hrN2phTTNuUGVEWFk9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/pZBQptAX3NwCbKItoOgRlzdnXGA.jpg</thumbnail>
+</item>
+
+<item>
+<title>Brooklyn (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL04ydkdGVF84RmJ1T1p2TndJTmliWGg0clgxaWVKNkR5ZHd5OFhHQm94UWM9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/yeA0eyNUmMlvXPkm9AHQfzxOwPy.jpg</thumbnail>
+</item>
+
+<item>
+<title>Room (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0lCVkhUekJWaXpOeEdNN0o1OEU0OWZ1MHkydkthWjdNRVpHdG1seldTeW89bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/eqFckcHuFCT1FrzLOAvXBb4jHwq.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>A Walk in the Woods (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2k1djUxWTNrX3VmWjBfYTBBTGg5UFpZRUU5N29lb2lkWk1DZGhPa0tKdVk9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/s9wvpkLKL1rCVJdxU6DVwgPGB6p.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>Goosebumps (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9HYUtnekdzQldPSUVGOGZYdzR1SHc4SFhfbzdZYWRkbXRoRnUtaUVVamw4PW0yMg==")</expres><page></page></regex>
+<thumbnail>http://ia.media-imdb.com/images/M/MV5BMjA1OTUzNTQ5Ml5BMl5BanBnXkFtZTgwODQ4NDkxNjE@._V1_SX500_SY999_.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>The Exorcist (1973)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9ZSlVaNDF2WHRpSEExaFZiZWY3X2ZURzVRRjdSZnBSbkREcnZnaGFJR2ZRPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/eYVZP9CibJg1fyZnZahfFIYqfPr.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Possession (2012)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9WU29qaUpqaTRzT2J1RDBmVDRYLVJtd0Vsd0FzclNMM2I3TThaLUlUV3N3PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/LfkZsWZ3rCax164BwBLz1We2pz.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Exorcism of Emily Rose (2005)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1JpX21TTzZQbmFCOFcwcFg3Qk1BR3ItaHdPVVFTMnR4bDlVQ1U5akdUUVE9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/oWL3FQAabZ8IjLtLnXNfm8yxWLU.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Last Exorcism (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL25qcDR4ZUlMLU5IbktXVXhiRjJBeXV0V0dOWlVleXhiSmYwbFowcEJDUE09bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/yfwncNHhkTvKYmHBbTwUEiTCGnn.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Exorcist III (1990)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9jY0FCbmRaNHNESmYzNmhpNUdyZ2Nna3lqdHAwZG5tNHFzRTUzLTlkUXQ0PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/2GboAbJhmwWBBlhWQ3pZSgXPuvo.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Evil Dead (1981)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL1gyeTdiMjFfNnhpV2VtY3JHTjdxeG5sU3hvR0E5ZVAtdUs1di1qUUVkM3c2PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/xhoQ3QMb3Gi6BHbYFcsycY3QCNZ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Exorcist: The Beginning (2004)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2Vrb0pwTFRoaDBid00zSFV6enplWjZGbTQyaWxTQ3RpZGFhLUxCa0I4UjA9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/alJleKIJSsfdNP0vBYUDqM9Umg6.jpg</thumbnail>
+</item>
+
+<item>
+<title>Dominion: Prequel to the Exorcist (2005)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1AxcWlSd0tJcGwtaldPRmhvMkg0T1hSMGlwRGpqYWtBcnhDYnIwV0tFZz1tMjI=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/3zlG1Jfj0zHdI6VSx8W1yTJFaTX.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Devil Inside (2012)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0ZZTEZibjNsenZHSnFyb280c3lJdFZPSHlUNUhtVlNVWEs5NzZFTkFaamc9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/5Iv68c3ESTpAuH7dyMZ52hXdW8u.jpg</thumbnail>
+</item>
+
+<item>
+<title>Deliver Us from Evil (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1JUUklqOUpzMGN6TEt1ODBFM3c4T2NxNW9WVkkwUkNvbHJSTy03OFE4dkE9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/cIKjhmdNgDipyX1zstEsbdGrW0M.jpg</thumbnail>
+</item>
+
+<item>
+<title>Exorcist II: The Heretic (1977)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9kVm1nS0F4eWlQNU0tZ0tidks4ZnY5WWFlemNmVGF1TUZVZGc3ZkZzRUtVPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/joa8KsYwAZE9LAM50Kntz9joMeA.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Possession of Michael King (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9CaFhFQ1JQSWN2Rjl3TzRkOUNPU0RHeF9lWWpSQ3pIdzhiWngyWE4ybnV3PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/fD3lz1rJgPu0dKrPOG2SVgG09Dd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Possession (1981)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL1kzWDNzYWY2ZTdNLVJwOWgtdUFjblZYdTlwVHE0WUhtSXhHWWE4UWRfa3d1PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/ecfslBxawaseOTypJpCL3ibD2PR.jpg</thumbnail>
+</item>
+
+<item>
+<title>Evil Dead II (1987)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLy1RTy1teGh0eVRGWi0xeEVweVVxSnY3blBxcGhmZHFGVm0zX0dKbXRnSmc9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/n49mpgUsPgBfRg2qIEj31HX0chu.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Last Exorcism Part II (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3NzUVZuZjF3UkU0a3IxcFJTRGtZcU5ITUpVUTVYXzJwcFh0RUtNOTZGZz1tMjI=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/nFWl45XKP3XhZY4K9ngZSBo6BkZ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Prince of Darkness (1987)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9aOGlMUHdPSzlJYlA0RnE2MFl2YW9HdGFyU0dlQ19hc2FjUms2MkJieHRFPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/pg6fgy9fHn7ZSKzdef2OhVW45iA.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Atticus Institute (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3hic1MtMmIwWnpMWTBoWUY5NnRXSjItYVE5WnAxYzFrXzZfc3RmQ1NTQWs9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/ehtwUDarA821aRekmsnUO6nfZz3.jpg</thumbnail>
+</item>
+
+<item>
+<title>Insidious: Chapter 2 (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL09XRG9BMDBfVklMOTRhcUk3NDJULXdaNHdRU21GQ1BNN3dDenVvZXhydz1tMjI=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/vmWgw1Lsc6bHThA6S2k8fPsROaI.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Entity (1983)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9INklVVDFaOTdrZlpFc2Z2WmVYUzRybkJXSFJYYTNRZmxYWTRsRWVnSWlJPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/gbM7ZONhjSK6CeTgmLLwo7SDVuV.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Vatican Tapes (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL3hXbmoyQl9ycHVVQVJtMEVpdHgxRGRWYkVOblhFajhpemRhSWQ4NVZNUjNMPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/aOTYWdP0sgZigWXmfRtmBkORmfT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Devil's Due (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0x3UXdITFpwMEJqaG5oLTNrejFNQWREV3ZrU1BVOGV0LXFTUDEyTFEyOEE9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/MgMPnHzraWqgBQwaUcdJh71qWl.jpg</thumbnail>
+</item>
+
+<item>
+<title>Night of the Demons (1988)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9tOEg2RFBfNF9ReTJoaEhNbWxCV3p1a3VFTVkxbVR4UFowcGtMQjF2ZnVFPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/qWUVkyCZUSAMDLycjFoSMMhkDRu.jpg</thumbnail>
+</item>
+
+<item>
+<title>Evil Dead (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3k3S2tKOWxXQmVSMmUwaXhORzA4bnZEZ2EyR3NhblFCYWJhckNmVGtWMGM9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/z56CMoFXOhq4zieKMsokLaiB4qE.jpg</thumbnail>
+</item>
+
+<item>
+<title>Annabelle (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3NIaTZRYmZQR2Flcmxwb1lTM2pMNkxZMU1pRUdwVVZnckhoLXRrMDBfRms9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/eZO23mGjrCXP7DcEbL8o3vn5PgE.jpg</thumbnail>
+</item>
+
+<item>
+<title>Stigmata (1999)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1dCQi11Ynd3SDNnaVZrN1ZGaTFPMXJiY0ZyczVQSXBkeWFYVVRsWjJoOXc9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/23ld0uMga2AnnOP3iSHv40gDwsK.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>Batman Begins (2005)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9IdWc3bkcyY09VV0hOMG9aRERiWVVMWmxEZEVNZ1B0eTRfUG5WeDdnWnZNPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/caYnVj3ccbBeXpGnUwebW8nPLEf.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Dark Knight (2008)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9sLUloOVk0NDVPbWFQWmtMOExrZmZqWUxZeFE4SnYyUnZyOG0tR2l2TUlRPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/1hRoyzDtpgMU7Dz4JF22RANzQO7.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Dark Knight Rises (2012)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS85MnVTX08wWDA2R2RoMnpZTW5WdWpxR2lvLTVDYUhoTHdqSGhyN1h4TGd3PW0zNw==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/dEYnvnUfXrqvqeRSqvIEtmzhoA8.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman (1989)</title>
+<link>https://docs.google.com/file/d/0B_qd4I5TrGFlZzQydVVoakVJbzg/edit</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/eDUy9octF4WpC9IIfxek0ZZPMhT.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman Returns (1992)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9xaFVqcWdoZFBmSEE3dkNmaE9leWJuX24zeHNSY1JqRjczMzhFYzB3T1ljPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/jX5THE1yW3zTdeD9dupcIyQvKiG.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: Under the Red Hood (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9va3Rfb3oxOElIUnFnZy1vVXJCdzAyalBjYmF3Umdac3g3ZTlOb0Nmam5RPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/78kjgspmLLOm2Glgpzqo9cS4GpI.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman Beyond: Return of the Joker (2000)</title>
+<link>http://streamin.to/ui1q5swlqouc</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/vIRHN4AXaQM6mMVj8CozhtelYmF.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman Forever (1995)</title>
+<link>https://docs.google.com/file/d/0B_qd4I5TrGFlSG04TDdNQURJRzA/edit</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/ilSAZsx16d514GcslHZ3ckT4i2o.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: Year One (2011)</title>
+<link>http://www.videomega.tv/view.php?ref=052113116111065056056068089116116089068056056065111116113052</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/bI1YVuhBN6Vws1GP9Mf01DyhC2s.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman & Mr. Freeze: SubZero (1998)</title>
+<link>http://streamin.to/ym8wd105h3c8</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/6Leq7SqNEuCNVr3fiykDVWf6Z8g.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: The Dark Knight Returns, Part 1 (2012)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL2RjbjN0ZjAwZS1mVk1SYV9zd2FBcWJjN3lyRFl6cHdiSW9ocDZzUWJ2TWc9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/t1UAqk1Yej8rfxEUqNLFyKkcny1.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman (1966)</title>
+<link>http://vk.com/video_ext.php?oid=182685286&id=163239555&hash=b1f01869304ad655&hd=1</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/3UWelGlodkRQeyheMrw6P52TC2A.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Batman Superman Movie: World's Finest (1998)</title>
+<link>http://thevideo.me/mzk7w21owr52</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/rrF3S9lmTQKu1368awR6hE16wy9.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superman/Batman: Public Enemies (2009)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0pSbGlOU28yRi1IVnYtZ3JtckVBNTNjS294bm4xWjk4eVl2WnVIalVQdEJVPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/7eaHkUKAzfstt6XQCiXyuKiZUAw.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: Gotham Knight (2008)</title>
+<link>https://docs.google.com/file/d/0B2wI8ATGJBLed3JDUVpsd094V0E/edit</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/gZb4h7aYRDzUsziErNyrPACo8wv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: Mystery of the Batwoman (2003)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3YyY0VCVHBhTHNqNVBZdUMySEk3eWdxTm9KU2VPQ0ZoVHJjWmtqaHhuWmM9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/3l2ArPFKXKQIwPOFm0keIkyjwqH.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: The Dark Knight Returns, Part 2 (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9SNmZndEFBMWhsLU8yVVFIWlF4aTc2ZVk2RkhxbGxTdjBEVzZRR3ZxTUJNPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/wPeorCnD9MRR2S9Dzh4OpIgNLiv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Justice League: Doom (2012)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tLzF1Vk9YejdwU0c3TzNzTDU1aC1NcDBKSmx5eHEtUU5Hbk9abk5DWklKM2s9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/4KIk5Odvkpwlf5y0QYqohTTlujw.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superman/Batman: Apocalypse (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL3A4MEIxeDBYWDRLTnhsMEJZdGhwTTV6NTdKU1dEWTRkNXVhRWIxT0tfbUVtPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/wNtrbql45NqvomsYKr3uHXgFj2D.jpg</thumbnail>
+</item>
+
+<item>
+<title>Justice League: Crisis on Two Earths (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3ZNV3NVMGpwbURPUUxRb1pCUndHS0t4NEpOWkFBVzB1a1hCaHIwNXRxNjg9bTE4")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/mImQPVPKNGlqPDmewsZ7TLvHND.jpg</thumbnail>
+</item>
+
+<item>
+<title>Justice League: The New Frontier (2008)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0Z5YnRfdzRPSVF1R3RrRHVRTEpyT1NNNGdoang3WHl6bkk2Y2dWQ3JiaklNPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/piSVYqGaooql7eTLyLBs5Zni6MU.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman & Robin (1997)</title>
+<link>https://docs.google.com/file/d/0B_qd4I5TrGFleDRoUjNiU3phd0E/edit</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/79AYCcxw3kSKbhGpx1LiqaCAbwo.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: Assault on Arkham (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0NSQUFueE1PZHg4QnVHR2E3SkljamdMcDIxSDlmenNrMGtPTHBpRkFpeEk9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/jY5DEgyMmHUh4AbWTu6pOb5g7vk.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Batman vs Dracula (2005)</title>
+<link>http://streamin.to/kobo4vkwzfnf</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/vPr6t2stb4NJ54151ms5xu8bykP.jpg</thumbnail>
+</item>
+
+<item>
+<title>Batman: Dead End (2003)</title>
+<link>http://stagevu.com/video/unahsxnggdci</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/3neup62dDvxMq2VJXX83lD2udop.jpg</thumbnail>
+</item>
+
+<item>
+<title>Scooby-Doo Meets Batman (1972)</title>
+<link>http://bestreams.net/wishqbe3syzr</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/9tkaET8Jr5p7drIH2CkELmAG8rG.jpg</thumbnail>
+</item>
+
+<item>
+<title>Lego Batman: The Movie - DC Super Heroes Unite (2013)</title>
+<link>http://vk.com/video_ext.php?oid=205413057&id=165128053&hash=c66815f2459991d2&hd=1</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/78Hqhqm1u1qampaBngYwwPwp3s6.jpg</thumbnail>
+</item>
+
+<item>
+<title>Son of Batman (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL2dQM3d2dFcxX0NMWTZkeU5zVmpSalN3M1dNMTI0SnRxSWhRNlJRRDZ5d1dkPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/3KsZUcifrnHqs6AGrZBW4iUTLYs.jpg</thumbnail>
+</item>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<item>
+<title>Catwoman (2004)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9SYURQQzRZMElUQnBMN3FBcjhJQ09FQkJ6LVNjUUxIRUhWMk14dThPZHMwPW0zNw==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/3E1XPZ2lZmL4lJV1KSUi1jaSx3w.jpg</thumbnail>
+</item>
+
+<item>
+<title>Constantine (2005)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS80amZPNW9Wc3lrNFRhdklDQURjWHhlYzdYX2JLQWpuNENCUzVHa1Q2d2lvPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/qYTerimWp1t1zSEKknn9mByhwbX.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Fountain (2006) SD</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS85SVVVbkdLay03S3pQS0M4OXZoeTNJRE5pRGZ1SDk4ZjhoRHA3cmhSY3NJPW0xOA==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/lGIJvQ8ZQazOHVAA0E34yIy7gxv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Green Lantern (2011)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9Ub2l4Z0lONnFaeUlNT3djb044czlXMUpuMkREdkFXbDFUdEhsWGZ6R3c9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/zUSEYp9G7Hk9GZIfbPoOiSHvwHV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Jonah Hex (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9lVEpZdmdPWWNQZDNwNTRpR3Q5S3JPalIta0tZeWJjTWVqa3lHVVJHQWc9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/y3wp1Hb3nLL64GUc2M4MsGJsrb0.jpg</thumbnail>
+</item>
+
+<item>
+<title>The League of Extraordinary Gentlemen (2003)</title>
+<link>https://docs.google.com/file/d/0BzoEyjUo2fB_WERicExSYTJncm8/edit?pli=1</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/AliSeCLFB6ZAkQIxosr8RAkFf6R.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Losers (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS93QUd5SzB2SHR2LVF0ZnNsaFpDa0FfLV8xZU1fX0VBLXFIR2pPS0FOdGVvPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/e67D7pMpWoo1ckY2QQaKYxhvVuy.jpg</thumbnail>
+</item>
+
+<item>
+<title>RED (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0c0a2V6N29rWlAxMTdDQWVKcXEtYVdhMkttTENwR3FNWWlzZmpBR204cXc9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/q2mwTRKrq1etP9S4SZVDIJq0wI2.jpg</thumbnail>
+</item>
+
+<item>
+<title>RED 2 (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0RZZUU1ODd0ZXRrUl95M3MtaldTbU9nS1FhczZaV1JZMDBqc0NJU0N4UlE9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/dvWITvEzlq8IaUbxUuBVKvXqfo6.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superman Returns (2006)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tLzFRQWtJd3NTU0l5NUNhUnZRZ2VuR3lEeFQ0bF8yMUNoTE9Ya19VVWExRXBRPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/mAZ9zR7I7TjWvL4Yw3HkchsTeGM.jpg</thumbnail>
+</item>
+
+<item>
+<title>Man of Steel (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9lM3BNX3M0QklqMmhnSmJENnA3Q2tHb3pMN1pkNS1ob2JNdnJ1QUFmSFBnPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/xWlaTLnD8NJMTT9PGOD9z5re1SL.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superman (1978)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0NVLUxLYmc2U1lzejRCRmZsNHd4Y3pGc0wwVHVzME5mOUlYR2p0UjFRNm1hPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/rLTdj7oB9oxsYwuweeglWRzRng7.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superman II (1980)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL1o0cTJzaEZRbWZaQXIwTmRqdzZlZ3JzOXZ1OGJheGNRSlpxVV9VcVZnbWpCPW0xOA==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/uvxjXSfph2FD07A2jBG9NHJnl27.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superman III (1983)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL1BKTXZ2UXo0dVBqSkt4aW9NcDUxTk5vNjVwbDdwUHg4eVFZZGNVeXl5LUlsPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/cg0xVuRQbb6QkaH5nvd8lzgr2Yf.jpg</thumbnail>
+</item>
+
+<item>
+<title>Superman IV: The Quest for Peace (1987)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0dMRVgxaDBLTkRKeFpreDVsVGNYcjJINncwcXVTSnV6MFdZS2R2NW05TmtyPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/q1P6UHWdrtZNkmdnoprV0ILfLlr.jpg</thumbnail>
+</item>
+
+<item>
+<title>Supergirl (1984) SD</title>
+<link>http://vidzi.tv/v6ydxtfomiyt.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/1zo5t9ZV4yPo6AKGisYbUcIURtV.jpg</thumbnail>
+</item>
+
+<item>
+<title>Supergirl (2015) PILOT</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9Tc0hjMnZrVHh5VHViSUpXdHZLQzd5UGxCTVVfWVFLTDZjREJ6RDdxTjE0PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/cbe7Fzze4uvcwzKnDfE6AibuyMR.jpg</thumbnail>
+</item>
+
+<item>
+<title>Swamp Thing (1982) SD</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9lU2JyWENXa1owLTI0QjdhWmwwRkNRNTctTWxXX0pKS09xS3ZHQTBxejNjPW0xOA==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/mlTr4tY9pWa7QQPdV9xkxVaJ5GC.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Return of Swamp Thing (1989) SD</title>
+<link>http://stagevu.com/video/wefmavtnuwrm</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/4dAAGYzrAXoNeNFarsyuq23aYIX.jpg</thumbnail>
+</item>
+
+<item>
+<title>Road to Perdition (2002)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL25xMHg0SFFtUFZReWZtWExCWTlBM2RiTjBtWmh6WWxkUVhZbWI0TjR0dFk9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/9C3VMy9HZ1VBhVHTadqg7pFh2ac.jpg</thumbnail>
+</item>
+
+<item>
+<title>V for Vendetta (2005)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9uVnpvUnBFcGFkMVZOUXp1S1JGSmVJM1ZkbmpBSlp5bjZyaHktMFotQUh3PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/8rI9pNiTmugkEbI249evLygl9TC.jpg</thumbnail>
+</item>
+
+<item>
+<title>Watchmen (2009)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9rRGc1eUxuT3Q2ZHZZRnl5dFJKYm45Y2FvSjhXT2V6R1gxQ0NnbHo0TDhNPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/na42JgpG48otbrR4jYvxxyMnL7k.jpg</thumbnail>
+</item>
+
+
+
+
+<item>
+<title>Ant-Man (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9FTmc5Zjhkc0dLR0JYQzR3UDZEeG5Tbkg0dmVyeEFMX2t4RUJWeTlTYldvPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/D6e8RJf2qUstnfkTslTXNTUAlT.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Avengers (2012)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS80ME8yWG9DN0Y5TDBkY25lNkVrWjdRdjdmX2IxNUI4ZVJHTDhFMk9HZWpzPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/cezWGskPY5x7GaglTTRN4Fugfb8.jpg</thumbnail>
+</item>
+
+<item>
+<title>Avengers: Age of Ultron (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS8yYWVHR1RmNUtVUVlBZFpkWUdKU3JmMTVHVXFVN1dtYTZQNFIzUWxNN0pVPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/t90Y3G8UGQp0f0DrP60wRu9gfrH.jpg</thumbnail>
+</item>
+
+<item>
+<title>Blade (1998)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0QxajM3dXN1aEcwZm9YeTY2WXhiU3FjU2VOUkNXSEdhNFNoU3dpV0hia2lLdFhYZFBhLURnZ1hNMlJEQjAxZm95UGJUZnkyRE9oQjg9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/r0RQ9ZOEZglLOeYDNJTehVTRoR6.jpg</thumbnail>
+</item>
+
+<item>
+<title>Blade II (2002)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL09BaUVYdlRlQ3dIQ1dhYVpKdUlkVkp3NVJjcGpaN2txZUxna1ptUllIRUk9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/jlURNpXCMK830CsGRd939PJLh8c.jpg</thumbnail>
+</item>
+
+<item>
+<title>Blade: Trinity (2004)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL2RDZVpqb2NnREZ3YU12QndfMTVneFVoVTRacGpCdlNmcDhuUW4zYmZTd0lvVGRuZnVZSHh3TFNpWk5aQ0h1T2xDWF92UkhBTjRnY2I9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/4WinsdHQBdh5aTt7Bd7T7dbUXbb.jpg</thumbnail>
+</item>
+
+<item>
+<title>Captain America: The First Avenger (2011)</title>
+<link>https://afdah.org/watch?v=Captain_America_The_First_Avenger_2011</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/dlIPGXPxXQTp9kFrRzn0RsfUelx.jpg</thumbnail>
+</item>
+
+<item>
+<title>Captain America: The Winter Soldier (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL1lpTlh1MXBEU1hDR1U1N0FULUhmUGprT2UxWXdTaXJWeTBMTF9nMGVqZl9HPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/5TQ6YDmymBpnF005OyoB7ohZps9.jpg</thumbnail>
+</item>
+
+<item>
+<title>Daredevil (2003)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL1B3TkVEd2RFMHBPRmhUbmo0a2hZOFotS1k2OUJlbURlOUlsdExBdDJVQ0k9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/dNVEqwgIdrwWQL3zXI5mQG60oM5.jpg</thumbnail>
+</item>
+
+<item>
+<title>Elektra (2005)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzFIZ1F4a0hxSUtCaEVLc3Uwa0tCQnYtc2ZiUUUzRWNSM2RSQU9ObzlSZz1tMjI=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/dyvqAJs20UrqTJGOHtJ0tNbU54m.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fantastic Four (2005)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL3lBb2FmQ3N5YzM5QUZXS1ZsbzRMRFVla2x3YXduY0ZCM0xmUDVnZVdydz1tMzc=")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/aJwUBmUA11lkNVSJ3if3h3xHSFd.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fantastic Four (2015)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9mdzVha3JDanZrdGJOQTVJZ3g0ZGFQQVpERkVPc1QybGhvUDc3WmRHOXJ3PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/g23cs30dCMiG4ldaoVNP1ucjs6.jpg</thumbnail>
+</item>
+
+<item>
+<title>Fantastic 4: Rise of the Silver Surfer (2007)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS80dU85QldWWW5hSUlRbTZnbVAzcER0Z0dHdzJYOUNIVW82Z3hKREtXZUNZPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/fXpziQgnBnB4bLgjKhjTbLQumE5.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ghost Rider (2007)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS90aGk2ZmhlemhNeVVUUm03Z2xOcDljdF9zRlBZNWdKMVBnU1Nkdm8zU1ZBPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/soDF6i4eREQN4JPuSzpAqWDZmU4.jpg</thumbnail>
+</item>
+
+<item>
+<title>Ghost Rider: Spirit of Vengeance (2011)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9JNzFTZ2Q5dnFZM0RpbW9HeW9NSzU4dDk4Vzc1Sy1iMDFSZ1E1Y3VTZUxvPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/tqwWzmp5ISh64SJbNKQ9fyItnDj.jpg</thumbnail>
+</item>
+
+<item>
+<title>Guardians of the Galaxy (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL0FqdlowSTBNem0wZHF0cWZVaS1ELWVCQkZ3UmdSaVU3NTc4VWk0R2lHS1k9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/y31QB9kn3XSudA15tV7UWQ9XLuW.jpg</thumbnail>
+</item>
+
+<item>
+<title>Howard the Duck (1986)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS8tWk5GY0xiT2NibW02VVVtOFBXTnZ2a1JnYi1jVm1NM29FTFBaU1QwdUNFPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/qVARoD6D4Uw3oFfEyrxZczfrF7T.jpg</thumbnail>
+</item>
+
+<item>
+<title>Hulk (2003)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9fblBtTS1uZFA5VUpnMUFhcUdDMVA5b3RuNkNoVzRJR19yN2hEUGZSdnZVPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/ogCQV6mnLtCJuiiHtMB83jvSRfY.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Incredible Hulk (2008)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0szcUZlVkUzUzNFeU9VYlg5Vm5oQkFLZTVobGU2SXZVcU9ydk5KQmVobms9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/qTghl3lO8PhmIxkf8eN5WQQefHI.jpg</thumbnail>
+</item>
+
+<item>
+<title>Iron Man (2008)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9yVF9qMkotWkNrSHhnS1E3SElGdGRpbVN6SEkzRUlVMm42b1B0ekRucFBzPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/848chlIWVT41VtAAgyh9bWymAYb.jpg</thumbnail>
+</item>
+
+<item>
+<title>Iron Man 2 (2010)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9zSUZxallxLW1Rd3pFRDd4YW4yT0hDWUY3a0N1VUxlTHhLQWJNX3VkUzM4PW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/ArqpkNYGfcTIA6umWt6xihfIZZv.jpg</thumbnail>
+</item>
+
+<item>
+<title>Iron Man 3 (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9NZ3BEdGp6ZHRoQl8ycEg2QTh0WV8xNFJDZjVPZi1iTEdiQVpveXBIcTFFPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/1Ilv6ryHUv6rt9zIsbSEJUmmbEi.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kick-Ass (2010)</title>
+<link>https://afdah.org/watch?v=Kick_Ass_2010</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/gtfggr5n3ED1neoTqVYmsVCoSS.jpg</thumbnail>
+</item>
+
+<item>
+<title>Kick-Ass 2 (2013)</title>
+<link>https://afdah.org/watch?v=lMzgxNDI5ZT</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/xEDiYvObe2enHa5utvbJlnbp0KJ.jpg</thumbnail>
+</item>
+
+<item>
+<title>Men in Black (1997)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tL0FWNmZTMkNrbWxYVDdnRW9WRG10akp1ekw5c25jd3l1NzlNcV9nbmdjbVE9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/f24UVKq3UiQWLqGWdqjwkzgB8j8.jpg</thumbnail>
+</item>
+
+<item>
+<title>Men in Black II (2002)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("]aHR0cHM6Ly9saDMuZ29vZ2xldXNlcmNvbnRlbnQuY29tLzM4SnNmUEtuWmxOTldIUzltWHpxTFUxN21qcmxOUGstRl95bzAtOWdoRk09bTIy</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/qWjRfBwr4VculczswwojXgoU0mq.jpg</thumbnail>
+</item>
+
+<item>
+<title>Men in Black 3 (2012)</title>
+<link>https://afdah.org/watch?v=Men_in_Black_3_2012</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/l9hrvXyGq19f6jPRZhSVRibTMwW.jpg</thumbnail>
+</item>
+
+<item>
+<title>Nick Fury: Agent of S.H.I.E.L.D. (1998) SD</title>
+<link>http://vidzi.tv/86o8tev72tky.html</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/4TYulLcTDRMlmpxdwmRE2HaIi0T.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Punisher (2004)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL3E0bExVN1lRTUpBVVNsNlNlTHN1bG0zcUxETGdYZjdfM1BmME1KV2VyZmhBPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/ikTj6Bf5LGd9bZHDbQbsI39Hbu2.jpg</thumbnail>
+</item>
+
+<item>
+<title>Punisher: War Zone (2008)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tLzZhWTZ1RzMzaE9ldGlfeVVLcFU3ZnpvUWRfeFJwMXlzNVh1Zi1SNER2TC1QPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/xrBl7FvGZFicZoMXtlSZ04duTL9.jpg</thumbnail>
+</item>
+
+<item>
+<title>Spider-Man (2002)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS8zbV9yQ3JkV1NhcThPUmJ3V3c5clNDZXBjdzgtbk9ULTJwcTdiUE1BY3BNPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/rZd0y1X1Gw4t5B3f01Qzj8DYY66.jpg</thumbnail>
+</item>
+
+<item>
+<title>Spider-Man 2 (2004)</title>
+<link>https://afdah.org/watch?v=Spider-Man_2_2004</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/qtBFrsEQ4oXW8sKvRxkKnYuPLg.jpg</thumbnail>
+</item>
+
+<item>
+<title>Spider-Man 3 (2007)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS8tQ0pMRVBvOWN2Sl9jc3dUQTgybWhZNUlneHBGSnJ4U3haeUllWUpGSXpFPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/uC2pAMjb32NIgQ1GdC1Bl6LZJc2.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Amazing Spider-Man (2012)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL3Y2STNSVnRQb0hwWGVRWGp3MVBOSmxNOXZDOVR5Ul9JeWE4ZW9iemF2aTg9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/eA2D86Y6VPWuUzZyatiLBwpTilQ.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Amazing Spider-Man 2 (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9Xclo0Ty1VRURJS1pOU01Ya3JhSlp1ZDFmUkRKS1RKMmtIOWdUeTlGX1RZPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/mUjWof8LHDgCZC9mFp0UYKBf1Dm.jpg</thumbnail>
+</item>
+
+<item>
+<title>Thor (2011)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9PMERWelV3cXpZU3g5bmxsa1V2T2t5azJhNFNVZlpMZ3E1UGRZSVNhYUNJPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/bIuOWTtyFPjsFDevqvF3QrD1aun.jpg</thumbnail>
+</item>
+
+<item>
+<title>Thor: The Dark World (2013)</title>
+<link>https://afdah.org/watch?v=Thor_2011</link>
+<thumbnail>https://image.tmdb.org/t/p/w396/6t3KOEUtrIPmmtu1czzt6p2XxJy.jpg</thumbnail>
+</item>
+
+<item>
+<title>X-Men (2000)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL041SS11RmIyTVliZUFMajhlV20ybC01LVVINEJObW1zQWhNQkJHSjZsNU09bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/4kYj7fUJzhEg7xz8J3oMPi7gDww.jpg</thumbnail>
+</item>
+
+<item>
+<title>X2: X-Men United (2003)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9wXzV4WGoyYms3UUJmZlR0U3l1TjhNX3B3UE1RTDJsaUxTazVYOVFmZk80PW0xOA==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/fdmZ0uHWDQzb6atNTaOQdfdQd9X.jpg</thumbnail>
+</item>
+
+<item>
+<title>X-Men: The Last Stand (2006)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cDovLzIuYnAuYmxvZ3Nwb3QuY29tL2l2TVdRcGxQQVR1OUVRQkVFbUVNQ1dZQ053TEFmbnNBTTg2WVRGM1d3ZjA9bTIy")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/5QpaN7ZBAR6D3FotvEIMX0qZxHg.jpg</thumbnail>
+</item>
+
+<item>
+<title>X-Men Origins: Wolverine (2009)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9pN2p2VUt4ZzlUOFd5aXhnOFk2MDRJWmtscnFsMkhUZm9NbWtSeHN1b1NZPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/vbaV7DalSF6Uy4qLyVK7uNdtmFy.jpg</thumbnail>
+</item>
+
+<item>
+<title>X-Men: First Class (2011)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS8xRzJKbVhTR3NOejN0Zy10OVFrSEZuUFpyWEtoTnN0alVkazVCRVRIcmdnPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/aWVYDsVfZG61Q9wv13md1TkcHp5.jpg</thumbnail>
+</item>
+
+<item>
+<title>The Wolverine (2013)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9Yai1odjJmelcwemJUTjlmV3FZTVd6cG4tTl9kTUhIZTBYWUE4Mjk2VTVzPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/o1nFdxKfPE9EFP6lSweEn2mx1Oi.jpg</thumbnail>
+</item>
+
+<item>
+<title>X-Men: Days of Future Past (2014)</title>
+<link>$doregex[get-decode]</link><regex><name>get-decode</name><expres>$pyFunction:base64.b64decode("aHR0cHM6Ly8zLmJwLmJsb2dzcG90LmNvbS9RdFJTeS1SNnlzY2lJb25xTE5zU2dzQzJHV0tNU3lIa2hFb3BaZ3owVmVrPW0yMg==")</expres><page></page></regex>
+<thumbnail>https://image.tmdb.org/t/p/w396/qKkFk9HELmABpcPoc1HHZGIxQ5a.jpg</thumbnail>
+</item>
