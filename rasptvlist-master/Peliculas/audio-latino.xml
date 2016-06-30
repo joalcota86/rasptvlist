@@ -1,5 +1,5 @@
 <item><link>$doregex[id]</link><regex><name>id</name><expres>file:'(.*)'</expres>
-<page>https://openload.co/embed/VB5EPANxlI0/LinkPeliculas_DDLIC.avi.mp4</page>	 
+<link>https://openload.co/embed/VB5EPANxlI0/LinkPeliculas_DDLIC.avi.mp4</link>	 
 <referer>http://streamin.to</referer></regex>         
 <title>Día de la Independencia 2 2016 tshq latino </title>     
 <thumbnail>http://cpmcines.com/nuevo/wp-content/uploads/2016/06/dia-independencia-2.jpg</thumbnail>
@@ -9,9 +9,10 @@
 <item>
 	<item>
 	<title>[COLOR white][COLOR blue]• [/COLOR] DIA DE LA INDEPENDENCIA II</title>
-	<fanart></fanart>
-	<thumbnail>http://imgs24.com/images/Independence_Day_Contraataque-361736103-large.jpg</thumbnail>
+	<fanart>http://chajarivirtual.com.ar/wp-content/uploads/2016/06/descarga.jpg</fanart>
+	<thumbnail>http://cpmcines.com/nuevo/wp-content/uploads/2016/06/dia-independencia-2.jpg</thumbnail>
 	<link>https://15zfn36.oloadcdn.net/dl/l/u93btMrNubo/Ql_mlgAzNi4/Independence+Day+Contraataque+%282016%29+-+Latino-Line+HDTS.avi.mp4?mime=true</link>
+	<genre>Acción, Ficción, Fantasía</genre>
 	</item>
 	
         <item>
@@ -37,16 +38,19 @@
 
 	<item>
 	<title>[COLOR white][COLOR blue]• [/COLOR] TORTUGAS NINJAS II</title>
-	<fanart></fanart>
-	<thumbnail>http://imgs24.com/images/TMNTOS_INTL_LEO_PAYOFF_1SHEET_REALD.jpg</thumbnail>
+	<fanart>https://image.tmdb.org/t/p/original/j52KyBIB0MlB8QfegceTQ6y1BHT.jpg</fanart>
+        <genre>Acción, Aventura, Comedia</genre>  
+	<thumbnail>https://image.tmdb.org/t/p/w500/5BCpxPLyp4wGcTribpZ6WtNkVJ5.jpg</thumbnail>
 	<link>https://17wy0z2.oloadcdn.net/dl/l/k9AILfUErx0/lV20-xb-m2c/Tortugas+Ninja+2.+Fuera+de+las+sombras+%282016%29+-+Latino+HDTS.avi.mp4?mime=true</link>
+
 	</item>
 
 	<item>
 	<title>[COLOR white][COLOR blue]• [/COLOR] WARCRAFT: EL ORIGEN</title>
-	<fanart></fanart>
-	<thumbnail>http://imgs24.com/images/160248907_7f9fdf.jpg</thumbnail>
+	<fanart>http://i.blogs.es/74b3ec/warcraft-el-origen-poster-oficial/450_1000.jpg</fanart>
+	<thumbnail>http://i.blogs.es/74b3ec/warcraft-el-origen-poster-oficial/450_1000.jpg</thumbnail>
 	<link>https://15zfn01.oloadcdn.net/dl/l/wXb747NSqSM/DksQ7kiJe30/Warcraft+%282016%29+-+Latino+Line+Cropped+HDTC+720p.mkv.mp4?mime=true</link>
+	<genre>Acción, Aventura, Comedia</genre> 
 	</item>
 
 	<item>
@@ -58,8 +62,8 @@
 
 	<item>
 	<title>[COLOR white][COLOR blue]• [/COLOR] X-MEN: APOCALIPSIS</title>
-	<fanart></fanart>
-	<thumbnail>http://imgs24.com/i/461477.jpg</thumbnail>
+	<fanart>http://i.blogs.es/730f6f/x-men-apocalipsis-banner-imagen-criticos/original.jpg</fanart>
+	<thumbnail>http://i.blogs.es/730f6f/x-men-apocalipsis-banner-imagen-criticos/original.jpg</thumbnail>
 	<link>https://15zfn3c.oloadcdn.net/dl/l/RzGBvP3RvbU/JkscyTq2UiQ/Xm3nAp0caTC720p.HC.castelalno.mkv.mp4?mime=true</link>
 	</item>
 
